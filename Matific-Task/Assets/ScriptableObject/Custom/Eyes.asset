@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c30f9f2e7a534862abb45e278ec2a21, type: 3}
+  m_Name: Eyes
+  m_EditorClassIdentifier: 
+  section: 0
+  sectionItems:
+  - resourceName: eyes_1
+    price: 400
+    minLevel: 8
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: cf2002d0cd0374433878e0a317646861, type: 3}
+    itemCustom: {fileID: 21300000, guid: b3451c58bb0294877aad701edefc49e0, type: 3}
+  - resourceName: eyes_2
+    price: 1
+    minLevel: 6
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 4d440549c7dff47b3849b1a3ab58d720, type: 3}
+    itemCustom: {fileID: 21300000, guid: 6dce668ae4ae44a01ac244ddc3ef35cf, type: 3}
+  - resourceName: eyes_3
+    price: 700
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: 50bd0f3448996402a8af354f8aa1171c, type: 3}
+    itemCustom: {fileID: 21300000, guid: 4d572b0af9a7f43d694916eb99c221f1, type: 3}
+  - resourceName: eyes_4
+    price: 0
+    minLevel: 0
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: cc9d8cd50dc70420eb298364b743cc94, type: 3}
+    itemCustom: {fileID: 21300000, guid: 15b7a89cbe0864a9da358eba67f3ebd6, type: 3}
+  - resourceName: eyes_5
+    price: 0
+    minLevel: 0
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: d31c9253a8dad4f78abc3197ad8bc2c6, type: 3}
+    itemCustom: {fileID: 21300000, guid: cee21c1d068914958b3a88462bb66abc, type: 3}
+  - resourceName: eyes_6
+    price: 0
+    minLevel: 5
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: e70cbebc9beb646f9945ee88e6d92b3d, type: 3}
+    itemCustom: {fileID: 21300000, guid: b06fc5d4a18e94246aed0976e5ca94fb, type: 3}
+  - resourceName: eyes_7
+    price: 0
+    minLevel: 4
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 27f02b0401a3547afa05de57b4862953, type: 3}
+    itemCustom: {fileID: 21300000, guid: 311099032185143aabd68fac59d80715, type: 3}
+  - resourceName: eyes_8
+    price: 0
+    minLevel: 2
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: adf6b5345707c49b8bc6869b00a0886c, type: 3}
+    itemCustom: {fileID: 21300000, guid: 4f38d549037e642a385eabb8672bb19a, type: 3}
+  - resourceName: eyes_9
+    price: 620
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: adf23f9d51945497e8c4cd83068a9dfd, type: 3}
+    itemCustom: {fileID: 21300000, guid: ffe39bc9481374ea8b79d44a6eec6031, type: 3}
+  - resourceName: eyes_10
+    price: 70
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: 1c85cd22dbc484cd4aac8fec43b2171f, type: 3}
+    itemCustom: {fileID: 21300000, guid: 6bffe443b60384da5ba6a38e697c142f, type: 3}

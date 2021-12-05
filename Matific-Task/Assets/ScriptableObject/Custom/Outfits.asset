@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09b537fb1617a42f48d31df1c7eacb2a, type: 3}
+  m_Name: Outfits
+  m_EditorClassIdentifier: 
+  section: 2
+  sectionItems:
+  - resourceName: outfit_01
+    price: 0
+    minLevel: 5
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 9f130f83a93d44f8db0444f0214ae8d1, type: 3}
+    itemCustom: {fileID: 21300000, guid: 20b8563292a7f4a15baa635607a8c330, type: 3}
+  - resourceName: outfit_02
+    price: 0
+    minLevel: 5
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 30667cc44d0874e8bab8136b945579f7, type: 3}
+    itemCustom: {fileID: 21300000, guid: 727db4c96406f47e4b5e5ce9e82207a2, type: 3}
+  - resourceName: outfit_03
+    price: 0
+    minLevel: 6
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 7edd78dc86701476aac05c58153eb9f9, type: 3}
+    itemCustom: {fileID: 21300000, guid: 464cd7096584e448e9e8a49454ea1197, type: 3}
+  - resourceName: outfit_04
+    price: 0
+    minLevel: 3
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: e075ccb1ad4f74e9387178b8c9357f88, type: 3}
+    itemCustom: {fileID: 21300000, guid: 2718aa62e225e4affad5665480f5dd56, type: 3}
+  - resourceName: outfit_05
+    price: 360
+    minLevel: 0
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 372ba89306cca4bdfb3a75bc23c61171, type: 3}
+    itemCustom: {fileID: 21300000, guid: 9a860623eb57c4c408f767fc1e82619a, type: 3}
+  - resourceName: outfit_06
+    price: 0
+    minLevel: 0
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 00d4cc7480d2e403bb26d9dcb58bbeb4, type: 3}
+    itemCustom: {fileID: 21300000, guid: 513c6a9d13b3749ceb6ad9a8d9ce6887, type: 3}
+  - resourceName: outfit_07
+    price: 100
+    minLevel: 0
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: cb6906d8f57d44adc9ec748c68a46b34, type: 3}
+    itemCustom: {fileID: 21300000, guid: a52d91819f4c74a9ebc0b3ea928d811e, type: 3}
+  - resourceName: outfit_08
+    price: 0
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: 7fd1241d7fcc64e6abb8ae5b0ed00b1b, type: 3}
+    itemCustom: {fileID: 21300000, guid: ccb94eae88eaf49b28754ede643cb346, type: 3}
+  - resourceName: outfit_09
+    price: 0
+    minLevel: 0
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 89075ad4b5b2a454eab4dbc973e94650, type: 3}
+    itemCustom: {fileID: 21300000, guid: 3a7fe7af63bda4e1b961cabec1d1d35b, type: 3}
+  - resourceName: outfit_10
+    price: 1000
+    minLevel: 0
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 1a54fdf9c92b2481584df7e3aaa310e0, type: 3}
+    itemCustom: {fileID: 21300000, guid: 0699a14e1f997486d97d0218c8744abf, type: 3}

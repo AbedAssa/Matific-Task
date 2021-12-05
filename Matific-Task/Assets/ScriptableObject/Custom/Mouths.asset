@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1746ac491c9e48d28aa0535ed5be089, type: 3}
+  m_Name: Mouths
+  m_EditorClassIdentifier: 
+  section: 1
+  sectionItems:
+  - resourceName: mouth_1
+    price: 0
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: 4d7822950700d4ecab18219fff4b53f5, type: 3}
+    itemCustom: {fileID: 21300000, guid: d3784891e648e44628de6374dd09cd6e, type: 3}
+  - resourceName: mouth_2
+    price: 0
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: 6351e31040f8c4807922769f8bd5a968, type: 3}
+    itemCustom: {fileID: 21300000, guid: 5177a619080d843ee969b1579c02e34b, type: 3}
+  - resourceName: mouth_3
+    price: 0
+    minLevel: 7
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 123fa55af90984cc4b7a6b2a9d7e1ffe, type: 3}
+    itemCustom: {fileID: 21300000, guid: 5b8665cb917344ac28b204e8ae5ca759, type: 3}
+  - resourceName: mouth_4
+    price: 0
+    minLevel: 3
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 322c8ebaf3720489d8cefe499b69dce0, type: 3}
+    itemCustom: {fileID: 21300000, guid: 2a9c82c234e174c30be13f17f30e1047, type: 3}
+  - resourceName: mouth_5
+    price: 0
+    minLevel: 4
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: 150ecec3954454fbb9bde7871d9ee557, type: 3}
+    itemCustom: {fileID: 21300000, guid: ffe6a9e5e799a4e828cf9f806fd2cfc8, type: 3}
+  - resourceName: mouth_6
+    price: 700
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: d313c03f64edf41da919f7830beb0a04, type: 3}
+    itemCustom: {fileID: 21300000, guid: 1e31697c03a414bef80ed1cb36f66845, type: 3}
+  - resourceName: mouth_7
+    price: 260
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: a2883f97938864770a70da4d60a82c02, type: 3}
+    itemCustom: {fileID: 21300000, guid: 972f013483ec741fba129f7172ab414e, type: 3}
+  - resourceName: mouth_8
+    price: 1
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: c09c7f69f165340afb24f4f9e6615a98, type: 3}
+    itemCustom: {fileID: 21300000, guid: 4a350d5e22ab844c9b754a932d975071, type: 3}
+  - resourceName: mouth_9
+    price: 0
+    minLevel: 5
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: bee168c93302e48f2a31a3fb4624e528, type: 3}
+    itemCustom: {fileID: 21300000, guid: 5d523d7bd923a466d828b0d0d17d7c74, type: 3}
+  - resourceName: mouth_10
+    price: 0
+    minLevel: 0
+    isPurchased: 0
+    itemCustomIcon: {fileID: 21300000, guid: a88860dc5915e459386b1e616eef79b1, type: 3}
+    itemCustom: {fileID: 21300000, guid: 1cdcc7f3ba5594f39b50af6c9c4a2dc9, type: 3}
+  - resourceName: mouth_11
+    price: 555
+    minLevel: 0
+    isPurchased: 1
+    itemCustomIcon: {fileID: 21300000, guid: c2cc0a4840d414eee8c3b55862117db4, type: 3}
+    itemCustom: {fileID: 21300000, guid: af1796dd11d784b6cb40c837563b4eb2, type: 3}
